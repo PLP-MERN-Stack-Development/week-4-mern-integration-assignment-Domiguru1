@@ -32,8 +32,8 @@ This project is a simple but powerful blog system with:
 ### 🚀 Clone the Project
 
 ```bash
-git clone https://github.com/PLP-MERN-Stack-Development/week-4-mern-integration-assignment-MohamedBashir2093.git
-cd week-4-mern-integration-assignment
+git clone https://github.com/PLP-MERN-Stack-Development/week-4-mern-integration-assignment-Domiguru1.git
+cd week-4-mern-integration-assignment-Domiguru1
 ````
 
 ---
