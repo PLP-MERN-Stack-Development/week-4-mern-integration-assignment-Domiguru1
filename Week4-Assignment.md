@@ -1,5 +1,6 @@
 # 🔄 Week 4: Deep Dive into MERN Stack Integration
 
+## Mern Blog
 ## 🚀 Objective
 Build a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that demonstrates seamless integration between front-end and back-end components, including database operations, API communication, and state management.
 
